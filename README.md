@@ -9,7 +9,7 @@ Python, Pandas functions and methods, and SQLAlchemy were used on hawaii.sqlite 
 The following statistic data tables are displayed below:
 
 ![][Resources/June_temps.PNG]
-
+![][Resources/December_temps.PNG]
 
 
 ## Summary
