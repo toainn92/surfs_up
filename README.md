@@ -6,7 +6,7 @@ The purpose of this analysis is to determine the temperature data for the months
 ## Results
 Python, Pandas functions and methods, and SQLAlchemy were used on hawaii.sqlite to filter the date coumn of the Measurements table to determine the temperature data of June and December.
 
-The following statistic data tables are displayed below:
+The following statistic temperature data tables for the months of June and December are displayed below:
 
 ![](Resources/June_temps.PNG)
 ![](Resources/December_temps.PNG)
