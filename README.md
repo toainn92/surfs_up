@@ -11,5 +11,9 @@ The following statistic temperature data tables for the months of June and Decem
 ![](Resources/June_temps.PNG)
 ![](Resources/December_temps.PNG)
 
+Three key differences in weather between June and December are:
+- The maximum temperature in June is 85 F, which is higher than the maximum temperature in December of 83 F. This indicate that June maxinimum temperature is 2 degree higher than December. Maximum temperature in June is slightly warmer than December.
+- The miminmum temperature in June is 65 F, which is higher than the minimum temperature in December of 56 F. This indicate that the June minimum temperature is 9 degrees higher than December. Minimum temperature in June is slightly warmer than December.
+- The mean temperature in June is 74.9 F and the mean temperature in December is 71.0 F. Overall, the mean temperature in June is higher than the mean temperature in December. However, the mean temperature in June is only slightly warmer than December.
 
 ## Summary
