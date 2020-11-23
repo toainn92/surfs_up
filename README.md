@@ -17,3 +17,8 @@ Three key differences in weather between June and December are:
 - The mean temperature in June is 74.9 F and the mean temperature in December is 71.0 F. Overall, the mean temperature in June is higher than the mean temperature in December. However, the mean temperature in June is only slightly warmer than December.
 
 ## Summary
+The analysis for temperature range in June and December are relatively close to each other in Oahu. The standard deviation is low in both months and it indicate that the surf and ice cream shop business is sustainable year round.
+
+Two additional queries to gather more weather data for June and December:
+- Find the number of windy days in June and the number of windy days in December
+- Find the number of rainy days in June and the number of windy days in December.
